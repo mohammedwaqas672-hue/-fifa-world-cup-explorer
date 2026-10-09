@@ -22,9 +22,9 @@ An interactive Streamlit web app that lets football fans explore World Cup histo
 - **Pandas** — data handling and analytics
 - **Custom CSS** — styling and animations
 
-## 📸 Screenshots
 
-*(Add a few screenshots here — Venues tab, Analytics tab, Bracket tab)*
+
+
 
 ## 🚀 Getting Started
 
